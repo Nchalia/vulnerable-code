@@ -38,8 +38,11 @@ docker run -p 3000:3000 --rm secure-app
 
 🤖 **Automation System**
 Dependabot: Daily security update checks
+
 GitHub Actions:
+
 Security scans on every push/PR
+
 npm audit and Trivy scans
 
 
